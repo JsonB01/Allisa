@@ -1,0 +1,25 @@
+Police text 1 : Andine
+Size text 1: 48px
+Color : #000
+
+Police text 2 : Andine
+Size text 2 : 40px
+Color : #000
+
+Police mini text : Brush Script MT Italic
+Size mini text : 18px
+Color : #4d4d4d
+
+Police main text info : 36
+Size main text info : 28.45px
+Color : #000
+
+Police text holder : 36
+Size main text 18px
+Color : #4d4d4d
+
+Box color : rgba(77, 77, 77, 0.32)
+
+Police DONE bouton : Brush Script MT Italic
+Size : 24px
+Color : #000
